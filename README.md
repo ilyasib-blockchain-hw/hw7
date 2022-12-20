@@ -20,6 +20,10 @@ Options and flags:
 
 ## Example
 ```
+sbt "runMain CryptographyApp -f input.txt -n 20 -p 42"
+```
+Or package and
+```
 pure-cryptos -f input.txt -n 20 -p 42
 ```
 
